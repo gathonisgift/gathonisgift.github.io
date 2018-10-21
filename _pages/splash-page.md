@@ -1,7 +1,7 @@
 ---
 title: "How you could help"
 layout: splash
-permalink: /splash-page/
+permalink: /
 date: 2018-10-21T11:48:41-04:00
 header:
   overlay_color: "#000"
