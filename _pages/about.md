@@ -2,7 +2,7 @@
 title: "The story how we got inspired"
 permalink: "/about/"
 header:
-   image: "/images/DSC_8105.jpg"
+   image: "/images/about.jpg"
 ---
 
 Gathoni’s gift is inspired by the story of the Hummingbird, Nobel Peace Prize Laureate Professor Wangari Maathai a celebrated Kenyan environment activist. Wangari like our founders believed in triumphant courage within a very challenging world.
