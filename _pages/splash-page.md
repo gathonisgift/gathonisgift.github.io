@@ -22,15 +22,15 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /images/library.jpg
-    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
+#    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     alt: "Donate to our dream libraries"
     title: "Donate to our dream libraries"
     excerpt: "For books and ICT infrastructure."
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
+  - image_path: /images/child.jpg
+#    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     alt: "Sponsorship"
     title: "Sponsorship"
     excerpt: "Sponsor a child through our annual scholar award."
