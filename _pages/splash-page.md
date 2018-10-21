@@ -2,13 +2,13 @@
 title: "How you could help"
 layout: splash
 permalink: /splash-page/
-date: 2016-03-23T11:48:41-04:00
+date: 2018-10-21T11:48:41-04:00
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /images/header.jpg
   actions:
-    - label: "Learn more"
+    - label: "Read more"
       url: "https://github.com/mmistakes/minimal-mistakes/"
 #  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 excerpt: "We help thousands of children to get their education. Now we need your help."
@@ -21,19 +21,19 @@ feature_row:
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+  - image_path: /images/library.jpg
     image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
-    alt: "placeholder image 2"
-    title: "Placeholder 2"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    alt: "Donate to our dream libraries"
+    title: "Donate to our dream libraries"
+    excerpt: "For books and ICT infrastructure."
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
-    alt: "placeholder image 2"
-    title: "Placeholder 2"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    alt: "Sponsorship"
+    title: "Sponsorship"
+    excerpt: "Sponsor a child through our annual scholar award."
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
