@@ -1,6 +1,7 @@
 ---
 title: "The story how we got inspired"
 permalink: "/about/"
+classes: wide
 header:
    image: "/images/about.jpg"
 ---
