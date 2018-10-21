@@ -23,8 +23,8 @@ feature_row:
     btn_class: "btn--primary"
   - image_path: /images/library.jpg
 #    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
-    alt: "Donate to our dream libraries"
-    title: "Donate to our dream libraries"
+    alt: "Donate to our libraries"
+    title: "Donate to our libraries"
     excerpt: "For books and ICT infrastructure."
     url: "#test-link"
     btn_label: "Read More"
