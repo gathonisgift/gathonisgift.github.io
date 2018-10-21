@@ -100,7 +100,8 @@ analytics:
 
 
 # Site Author
-author:
+authors:
+- author:
   name             : "Penninah Gathoni"
   avatar           : "/images/profile.jpg"
   bio              : "Bio."
@@ -125,8 +126,7 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
-
-author:
+- author:
   name             : "Tabitha Gathoni"
   avatar           : "/images/profile.jpg"
   bio              : "Bio."
