@@ -1,5 +1,5 @@
 ---
-title: "Gathonis Gift is happening!"
+title: "Gathoni's Gift is happening!"
 categories:
   - News
 ---
