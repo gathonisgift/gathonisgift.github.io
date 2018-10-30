@@ -2,9 +2,6 @@
 title: "Gathonis Gift is happening!"
 categories:
   - News
-tags:
-  - news
-  - welcome
 ---
 
 Hi all, thank you for being here and in your own way joining our journey. In truth the last few months have been interestingly informative. Since my last post a lot of people have come to me, asking about the foundation update, actually Tabby has also had her share of conversations about our plan. Thank you for challenging us to start and for keeping us accountable and allowing us to throw ideas around before we finally got to registration. That’s right! We are not officially registered. It has been a great honour to visit our pilot schools and introduce our plans while learning as much as we can from the students and teachers. So other than registration here is a few more updates;
