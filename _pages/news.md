@@ -2,6 +2,7 @@
 layout: archive
 title: "News"
 permalink: /news/
+classes: wide
 author_profile: false
 ---
 
