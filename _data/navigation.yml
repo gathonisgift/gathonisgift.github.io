@@ -6,6 +6,8 @@ main:
     url: /news/
   - title: "Our schools"
     url: /schools/
+  - title: "Photos"
+    url: /photos/
   - title: "Donate"
     url: /donate/
   - title: "About"
