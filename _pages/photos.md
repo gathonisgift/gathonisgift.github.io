@@ -1,8 +1,10 @@
 ---
 title: "Photos"
 permalink: "/photos/"
-author_profile: false
+author_profile: true
 classes: wide
+header:
+   image: "/images/photos.jpg"
 ---
 
 <figure class="third">
@@ -20,4 +22,5 @@ classes: wide
 <figure class="third">
     <a href="/images/photo07.jpg"><img src="/images/photo07.jpg"></a>
     <a href="/images/photo08.jpg"><img src="/images/photo08.jpg"></a>
+    <a href="/images/photo09.jpg"><img src="/images/photo09.jpg"></a>
 </figure>
