@@ -2,6 +2,8 @@
 title: "Our schools"
 permalink: "/schools/"
 classes: wide
+header:
+   image: "/images/ourschools.jpg"
 ---
 
 <figure class="half">
