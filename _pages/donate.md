@@ -2,6 +2,7 @@
 title: "Donate"
 permalink: "/donate/"
 classes: wide
+author_profile: false
 header:
    image: "/images/donate.jpg"
 ---
