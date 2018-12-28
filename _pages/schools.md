@@ -1,7 +1,7 @@
 ---
 title: "Our schools"
 permalink: "/schools/"
-author_profile: false
+author_profile: true
 classes: wide
 header:
    image: "/images/ourschools.jpg"
