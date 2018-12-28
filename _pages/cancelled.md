@@ -6,4 +6,4 @@ header:
    image: "/images/cancelled.jpg"
 ---
 
-Something went wrong and unfortunately the donation is not completed.
+Your donation is cancelled and therefore the donation is not completed.
