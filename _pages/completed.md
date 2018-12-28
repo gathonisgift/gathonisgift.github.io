@@ -1,6 +1,6 @@
 ---
 title: "Thank you - your donation is completed"
-permalink: "/about/"
+permalink: "/completed/"
 classes: wide
 header:
    image: "/images/completed.jpg"
