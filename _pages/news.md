@@ -1,11 +1,6 @@
 ---
-layout: archive
-title: "News"
-permalink: /news/
-classes: wide
-author_profile: false
+title: "Posts by Year"
+permalink: /year-archive/
+layout: posts
+author_profile: true
 ---
-
-{% for post in site.posts limit: 5 %}
-  {% include archive.html %}
-{% endfor %}
