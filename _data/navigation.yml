@@ -4,6 +4,8 @@ main:
     url: /
   - title: "News"
     url: /news/
+  - title: "Donate"
+    url: /donate/
   - title: "About"
     url: /about/
   # - title: "Sample Collections"
