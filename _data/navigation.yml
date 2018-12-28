@@ -2,8 +2,8 @@
 main:
   - title: "Home"
     url: /
-  - title: "News"
-    url: /news/
+  - title: "Blog"
+    url: /blog/
   - title: "Our schools"
     url: /schools/
   - title: "Photos"
