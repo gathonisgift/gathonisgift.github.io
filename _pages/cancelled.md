@@ -1,9 +1,9 @@
 ---
-title: "Your donation is succesfully completed"
-permalink: "/completed/"
+title: "Your donation is cancelled"
+permalink: "/cancelled/"
 classes: wide
 header:
-   image: "/images/completed.jpg"
+   image: "/images/cancelled.jpg"
 ---
 
-On behalf of the children we really want to thank you!
+Something went wrong and unfortunately the donation is not completed.
