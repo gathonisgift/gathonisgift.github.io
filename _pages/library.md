@@ -1,8 +1,8 @@
 ---
-title: "Volunteer"
-permalink: "/volunteer/"
+title: "Donate to our libraries"
+permalink: "/library/"
 classes: wide
 header:
-   image: "/images/volunteer.jpg"
+   image: "/images/library.jpg"
 ---
-3 months internship at our schools.
+For books and ICT infrastructure.
