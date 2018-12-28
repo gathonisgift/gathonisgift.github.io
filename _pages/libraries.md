@@ -1,6 +1,6 @@
 ---
 title: "Donate to our libraries"
-permalink: "/library/"
+permalink: "/libraries/"
 classes: wide
 header:
    image: "/images/library.jpg"
