@@ -7,7 +7,7 @@ header:
    image: "/images/ourschools.jpg"
 ---
 
-<figure>
+<figure class="half">
     <a href="/images/school1.jpg"><img src="/images/school1.jpg"></a>
     <a href="/images/school2.jpg"><img src="/images/school2.jpg"></a>
     <figcaption>Nduini Primary School (left) and Mukangu Primary School (right)</figcaption>
