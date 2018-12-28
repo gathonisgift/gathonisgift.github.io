@@ -4,7 +4,7 @@ main:
     url: /
   - title: "News"
     url: /news/
-  - title: "Schools"
+  - title: "Our schools"
     url: /schools/
   - title: "Donate"
     url: /donate/
