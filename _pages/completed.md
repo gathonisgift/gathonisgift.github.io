@@ -1,9 +1,9 @@
 ---
-title: "Thank you - your donation is completed"
+title: "Your donation is succesfully completed"
 permalink: "/completed/"
 classes: wide
 header:
    image: "/images/completed.jpg"
 ---
 
-Thanks
+On behalf of the children we really want to thank you!
