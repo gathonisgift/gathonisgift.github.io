@@ -10,7 +10,7 @@ header:
 <figure class="half">
     <a href="/images/school1.jpg"><img src="/images/school1.jpg"></a>
     <a href="/images/school2.jpg"><img src="/images/school2.jpg"></a>
-    <figcaption>Nduini Primary School (left) and Mukangu Primary School (right)</figcaption>
+    <figcaption>Nduini Primary School (first photo) and Mukangu Primary School (second photo)</figcaption>
 </figure>
 
 *Nduini Primary School* is a Public Primary school. It is located in Kangema Constituency, Kiruri Location, Kangema Division within the Muranga District of Murang’A County in the Central Province of Kenya. It is a Day Only school for both Boys and Girls that caters to Ordinary Students. Learning is carried out through a Kenyan Curriculum.
